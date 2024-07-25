@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 <template>
-    <div class="container mx-auto">
+    <div class="container mx-auto relative">
         <h2 class="text-5xl lg:text-7xl mb-5" data-aos="fade-right">
             Контакты
         </h2>
@@ -59,6 +59,11 @@
                 </NuxtLink>
             </div>
         </div>
+        <NuxtImg
+            src="/contacts-bg.png"
+            data-aos="fade-up-right"
+            class="hidden sm:block absolute w-1/3 xl:right-40 sm:right-10 2xl:top-0 -z-10 lg:top-48 top-64"
+        />
     </div>
 </template>
 <style scoped>
