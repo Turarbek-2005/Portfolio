@@ -4,7 +4,7 @@
         <h2 class="text-5xl lg:text-7xl mb-5" data-aos="fade-right">
             Контакты
         </h2>
-        <h4 class="text-xl md:text-2xl mb-5">
+        <h4 class="text-xl md:text-2xl mb-5" data-aos="fade-up">
             Если хотите написать по поводу сотрудничества, пишите в одну из этих
             соц сетей.
         </h4>
