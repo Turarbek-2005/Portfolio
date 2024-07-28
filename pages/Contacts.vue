@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 <template>
-    <div class="container mx-auto relative">
+    <div class="container mx-auto relative height">
         <h2 class="text-5xl lg:text-7xl mb-5" data-aos="fade-right">
             Контакты
         </h2>
@@ -67,6 +67,15 @@
     </div>
 </template>
 <style scoped>
+.height {
+    height: 100%;
+}
+@media screen and (min-width: 640px) {
+    .height {
+        height: 70vh;
+    }
+}
+
 .social-container {
     position: relative;
     display: inline-block;

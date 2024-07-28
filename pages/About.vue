@@ -6,7 +6,9 @@ const animate2 =
 </script>
 <template>
     <div class="container mx-auto">
-        <h2 class="text-5xl lg:text-7xl mb-5" data-aos="fade-right">Обо мне</h2>
+        <h2 class="text-5xl lg:text-7xl mb-5 lg:mb-20" data-aos="fade-right">
+            Обо мне
+        </h2>
         <div class="flex lg:flex-row flex-col gap-5">
             <div class="w-52 sm:w-72 lg:w-1/4 mx-auto lg:mx-0">
                 <NuxtImg

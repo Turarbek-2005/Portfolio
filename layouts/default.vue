@@ -13,6 +13,7 @@ useSeoMeta({
         <div>
             <slot />
         </div>
+        <Footer />
     </div>
 </template>
 <style scoped></style>
