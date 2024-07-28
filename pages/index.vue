@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-    <div class="flex xl:mt-32 md:mt-20 mt-5 mb-20 sm:mb-48 xl:mb-40 2xl:mb-60">
+    <div class="flex xl:mt-32 md:mt-20 mt-5 mb-32 sm:mb-48 xl:mb-40 2xl:mb-60">
         <div class="container mx-auto relative">
             <div class="z-10 lg:w-7/12" data-aos="fade-up-right">
                 <h2 class="text-4xl xl:text-5xl mb-4">
