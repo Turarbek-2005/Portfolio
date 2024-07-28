@@ -8,7 +8,11 @@
                 class="flex items-center md:items-start md:justify-between w-full opacity-60 px-2 flex-col md:flex-row gap-5 py-5"
             >
                 <h5 class="text-xl md:text-sm">Website of Kabdesh Turarbek</h5>
-                <p class="text-xl md:text-sm">turarbek.kabdesh@mail.ru</p>
+                <NuxtLink
+                    to="mailto:turarbek.kabdesh@mail.ru"
+                    class="text-xl md:text-sm"
+                    >turarbek.kabdesh@mail.ru</NuxtLink
+                >
             </div>
         </div>
     </div>
