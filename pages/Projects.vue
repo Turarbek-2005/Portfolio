@@ -7,18 +7,6 @@ const items = [
     text: "Vamos это сайт на подобии инстаграмма, тут вы можете создавать публикации, комментировать посты, редактировать аккаунт, чат бота и т.д.",
   },
   {
-    img: "/Projects/imperials.svg",
-    to: "https://imperials.vercel.app",
-    label: "Imperials",
-    text: "Этот сайт был сделан на заказ, тут продемонстрированы мои навыки делать сайт адаптивным без использования tailwindcss.",
-  },
-  {
-    img: "/Projects/aiu.jpg",
-    to: "https://aiu-front.vercel.app",
-    label: "AIU",
-    text: "Этот проект находится на этапе разработки, он создавался для университета AIU группой людей и был создан через обычный VUE, а не через Nuxt.",
-  },
-  {
     img: "/Projects/crm.svg",
     to: "https://crm-system-psi.vercel.app",
     label: "CRM",
@@ -29,6 +17,18 @@ const items = [
     to: "https://inventoryturarbek.vercel.app/",
     label: "Inventory",
     text: "В этом приложении вы можете добавлять товары и т.д в свой инвентарь, перемещать их по ячейкам, удалять, изменять их количество и смотреть их информацию через выдвигающийся слайдер.",
+  },
+  {
+    img: "/Projects/imperials.svg",
+    to: "https://imperials.vercel.app",
+    label: "Imperials",
+    text: "Этот сайт был сделан на заказ, тут продемонстрированы мои навыки делать сайт адаптивным без использования tailwindcss.",
+  },
+  {
+    img: "/Projects/aiu.jpg",
+    to: "https://aiu-front.vercel.app",
+    label: "AIU",
+    text: "Этот проект находится на этапе разработки, он создавался для университета AIU группой людей и был создан через обычный VUE, а не через Nuxt.",
   },
 ];
 </script>
